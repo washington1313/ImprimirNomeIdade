@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirNome\ImprimirNome\bin\Debug\ImprimirNome.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirNome\ImprimirNome\bin\Debug\ImprimirNome.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirNome\ImprimirNome\bin\Debug\ImprimirNome.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirNome\ImprimirNome\obj\Debug\ImprimirNome.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirNome\ImprimirNome\obj\Debug\ImprimirNome.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirNome\ImprimirNome\obj\Debug\ImprimirNome.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirNome\ImprimirNome\obj\Debug\ImprimirNome.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirNome\ImprimirNome\obj\Debug\ImprimirNome.pdb
